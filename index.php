@@ -10,7 +10,7 @@ session_start();
 <html lang="en">
 <head>
 
-     <title>Hugo - Car Wash</title>
+     <title>CAKA - Car Wash</title>
 <!--
 
 Template 2098 Health
